@@ -2,4 +2,7 @@
     <string name="app_name">Android_7.1.1</string>
     <string name="synchronize">Synchronize</string>
     <string name="hint_current_time">10:10</string>
+    <string name="hint_morning_main">Morning</string>
+    <string name="hint_evening_main">Evening</string>
+    <string name="hint_afternoon_main">Afternoon</string>
 </resources>
